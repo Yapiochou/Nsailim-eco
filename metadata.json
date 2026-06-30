@@ -1,0 +1,6 @@
+{
+  "name": "N'sailim-Eco",
+  "description": "Une application d'apprentissage écologique et de défis éco-responsables ludiques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
